@@ -1,5 +1,5 @@
 {
-  "name": "react-material-workspace-layout",
+  "name": "@Xkey-AiEstimation/react-material-workspace-layout",
   "version": "1.0.9",
   "repository": {
     "type": "git",
@@ -61,6 +61,6 @@
     "semi": false
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/@Xkey-AiEstimation"
   }
 }
