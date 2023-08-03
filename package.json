@@ -1,9 +1,9 @@
 {
-  "name": "@Xkey-AiEstimation/react-material-workspace-layout",
+  "name": "@xkey-aiestimation/react-material-workspace-layout",
   "version": "1.0.9",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Xkey-AiEstimation/Workspace-1.0.9.git"
+    "url": "https://github.com/xkey-aiestimation/Workspace-1.0.9.git"
   },
   "dependencies": {
     "@material-ui/core": "^4.10.0",
@@ -61,6 +61,6 @@
     "semi": false
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@Xkey-AiEstimation"
+    "registry": "https://npm.pkg.github.com/@xkey-aiestimation"
   }
 }
