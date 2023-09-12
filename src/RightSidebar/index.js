@@ -15,6 +15,7 @@ const Container = styled("div")({
   color: 'white',
   position: "relative",
   transition: "width 500ms",
+  overflowY: 'scroll',
   "&.expanded": {
     width: 300,
   },
